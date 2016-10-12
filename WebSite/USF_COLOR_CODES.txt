@@ -1,0 +1,4 @@
+Colors
+#006747 - Dark Green for Header
+#dfd0a5 - light cream
+#bfc17a - dark cream
